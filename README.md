@@ -1,5 +1,8 @@
-# TLS Security Auditor
+#Team Members:
+Paula Awad
+Aljayson Mendoza
 
+# TLS Security Auditor
 ## Overview
 This project builds a reproducible TLS Security Auditor that scans local services and detects insecure TLS configurations such as:
 - Deprecated TLS versions
