@@ -1,0 +1,5 @@
+{
+  "minimum_tls_version": "TLSv1.2",
+  "disallowed_ciphers": ["RC4", "3DES", "DES", "NULL"],
+  "allow_self_signed": false
+}

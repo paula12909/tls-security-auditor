@@ -1,0 +1,3 @@
+host,port,tls_version,cipher,risk_score,risk_level
+localhost,8443,,,15,HIGH
+localhost,9443,TLSv1.3,TLS_AES_256_GCM_SHA384,0,LOW

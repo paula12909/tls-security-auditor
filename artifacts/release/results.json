@@ -1,0 +1,34 @@
+[
+  {
+    "host": "localhost",
+    "port": 8443,
+    "connected": false,
+    "tls_version": null,
+    "cipher": null,
+    "certificate_present": false,
+    "self_signed": false,
+    "error": "[WinError 10053] An established connection was aborted by the software in your host machine",
+    "issues": [
+      "Demo insecure service detected",
+      "Connection error: [WinError 10053] An established connection was aborted by the software in your host machine",
+      "No TLS version detected",
+      "No cipher detected",
+      "No certificate presented"
+    ],
+    "risk_score": 15,
+    "risk_level": "HIGH"
+  },
+  {
+    "host": "localhost",
+    "port": 9443,
+    "connected": true,
+    "tls_version": "TLSv1.3",
+    "cipher": "TLS_AES_256_GCM_SHA384",
+    "certificate_present": true,
+    "self_signed": false,
+    "error": null,
+    "issues": [],
+    "risk_score": 0,
+    "risk_level": "LOW"
+  }
+]

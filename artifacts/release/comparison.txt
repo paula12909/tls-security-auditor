@@ -1,0 +1,5 @@
+TLS Security Comparison
+=======================
+localhost:8443 -> HIGH risk, score 15
+localhost:9443 -> LOW risk, score 0
+Result: second target appears more secure.
