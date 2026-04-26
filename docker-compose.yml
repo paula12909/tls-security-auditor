@@ -1,19 +1,29 @@
-version: '3.8'
+# version: '3.8'
 
+# services:
+#   insecure_service:
+#     build: ./test_services/insecure
+#     ports:
+#       - "8443:443"
+
+#   secure_service:
+#     build: ./test_services/secure
+#     ports:
+#       - "9443:443"
+
+#   auditor:
+#     build: ./auditor
+#     depends_on:
+#       - insecure_service
+#       - secure_service
+#     command: ["python", "auditor.py"]
 services:
   insecure_service:
     build: ./test_services/insecure
     ports:
-      - "8443:443"
+      - "8443:8443"
 
   secure_service:
     build: ./test_services/secure
     ports:
-      - "9443:443"
-
-  auditor:
-    build: ./auditor
-    depends_on:
-      - insecure_service
-      - secure_service
-    command: ["python", "auditor.py"]
+      - "9443:9443"
