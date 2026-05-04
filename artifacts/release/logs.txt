@@ -4,7 +4,7 @@
 [INFO] Cipher: None
 [INFO] Risk: HIGH (15)
 [FINDING] Demo insecure service detected
-[FINDING] Connection error: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1032)
+[FINDING] Connection error: [WinError 10053] An established connection was aborted by the software in your host machine
 [FINDING] No TLS version detected
 [FINDING] No cipher detected
 [FINDING] No certificate presented

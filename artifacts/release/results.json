@@ -7,10 +7,10 @@
     "cipher": null,
     "certificate_present": false,
     "self_signed": false,
-    "error": "[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1032)",
+    "error": "[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1010)",
     "issues": [
       "Demo insecure service detected",
-      "Connection error: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1032)",
+      "Connection error: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1010)",
       "No TLS version detected",
       "No cipher detected",
       "No certificate presented"
