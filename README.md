@@ -1,6 +1,6 @@
 #Team Members:
 Paula Awad
-Aljayson Mendoza
+Al Jayson Mendoza
 
 ## Quick Start
 
