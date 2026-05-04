@@ -4,7 +4,7 @@
 [INFO] Cipher: None
 [INFO] Risk: HIGH (15)
 [FINDING] Demo insecure service detected
-[FINDING] Connection error: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1010)
+[FINDING] Connection error: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1007)
 [FINDING] No TLS version detected
 [FINDING] No cipher detected
 [FINDING] No certificate presented

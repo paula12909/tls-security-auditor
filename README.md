@@ -2,6 +2,11 @@
 Paula Awad
 Al Jayson Mendoza
 
+## Demo Video
+
+You can view the full demo here:
+
+https://www.youtube.com/watch?v=U9tH9KGLizs
 ## Quick Start
 
 Run the full system (required):
